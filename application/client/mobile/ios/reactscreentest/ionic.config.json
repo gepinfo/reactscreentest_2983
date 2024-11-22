@@ -1,0 +1,7 @@
+{
+  "name": "reactscreentest",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
